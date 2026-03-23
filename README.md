@@ -1,1 +1,1 @@
-# Computer_vision
+Solutions of My Computer vsion course assignment
